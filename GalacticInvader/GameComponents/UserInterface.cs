@@ -83,7 +83,7 @@ namespace GalacticInvader.GameComponents
             //Displays endgame text if player dies
             if (PlayerShip.health == 0)
             {
-                spriteBatch.DrawString(font, "Game Over - Press X to restart or ESC to return to main menu",
+                spriteBatch.DrawString(font, "You Are Dead! - Press X to restart or ESC to return to main menu",
                             new Vector2(Shared.stage.X / 2 - 250, Shared.stage.Y / 2), Color.Red);                
             }
             //Displays lives
