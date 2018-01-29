@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/playerShip.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/Shoot.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/player.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/background.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/back.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/enem.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Effects/eDeath.wav</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Effects/background.mp3</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/UFO.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/E2.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/Explosion.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/lives.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/drag.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/back2.jpg</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/startBack.jpg</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/p1.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/shot.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/b2.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/astroid.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/powerup.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Fonts/font.spritefont</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/triple.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/credit.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/help.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/Paranoid.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/para.png</File>
+    <File>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Images/shotboss.png</File>
+  </SourceFiles>
+</SourceFileCollection>

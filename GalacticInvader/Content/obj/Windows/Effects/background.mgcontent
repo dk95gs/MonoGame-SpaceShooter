@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/Effects/background.mp3</SourceFile>
+  <SourceTime>2018-01-29T10:54:12.6792847-05:00</SourceTime>
+  <DestFile>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/bin/Windows/Effects/background.xnb</DestFile>
+  <DestTime>2018-01-29T10:54:55.1972406-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/dk95g/Desktop/MonoGame-SpaceShooter-master/GalacticInvader/Content/bin/Windows/Effects/background.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
